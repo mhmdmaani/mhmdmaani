@@ -7,10 +7,10 @@
    - 🇸🇾 Computer engineering in Syria 
    - 🇸🇪 Java developer in Sweden 
 - 🇸🇪 I live in Sweden.
+- I have over 8 years of experience
 - 📫 How to reach me ...:
    - ☎ +46760459899
    - 📧 mohammedmaani@hotmail.com
-   - 
 
 <!---
 mhmdmaani/mhmdmaani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
